@@ -1,0 +1,59 @@
+{
+  "id": "Mew",
+  "spawnInfos": [
+    {
+      "spec": "species:Mew level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:modified_jungle"
+        ]
+      },
+      "rarity": 0.9
+    },
+    {
+      "spec": "species:Mew level:70 f:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:modified_jungle"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

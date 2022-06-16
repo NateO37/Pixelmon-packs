@@ -1,0 +1,49 @@
+{
+  "id": "Abra",
+  "spawnInfos": [
+    {
+      "spec": "species:Abra f:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "end"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Abra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "end"
+        ]
+      },
+      "rarity": 129.0
+    }
+  ]
+}
